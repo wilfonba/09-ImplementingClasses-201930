@@ -21,6 +21,7 @@ def main():
     run_test_get_distance_traveled()
     run_test_closer_to()
     run_test_halfway_to()
+    
 
 ###############################################################################
 # IMPORTANT:
